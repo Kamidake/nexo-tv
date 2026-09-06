@@ -47,3 +47,5 @@ docs/
 
 # Stremio specific
 .well-known/
+.prisma-composer/
+.alchemy/
